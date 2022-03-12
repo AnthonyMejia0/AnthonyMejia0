@@ -45,6 +45,7 @@ My ToolBox :toolbox:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMejia0&repo=CS122A-Final-Project)](https://github.com/AnthonyMejia0/CS122A-Final-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMejia0&repo=CS166-Final-Project)](https://github.com/AnthonyMejia0/CS166-Final-Project)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMejia0&repo=React-Portfolio)](https://github.com/AnthonyMejia0/React-Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMejia0&repo=CS170-ML-Project)](https://github.com/AnthonyMejia0/CS170-ML-Project)
 
 <Br>
 <h3> Check out my Youtube channel at the bottom of the page for demos of these projects. </h3>
