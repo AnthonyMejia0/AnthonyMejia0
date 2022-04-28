@@ -66,7 +66,7 @@ Indeed Assessments
   * Analyzing Data - Highly Proficient
   * Technical Support - Proficient
   
-View my full Indeed resume [here.](https://my.indeed.com/p/anthonym-gg099y6)
+View my resume [here.](https://drive.google.com/file/d/1jheYxHuideWXjsCUYim_go7ricHuPu49/view?usp=sharing)
   
 <Br>
 <h1 align="center">Connect with Me!</h1>
