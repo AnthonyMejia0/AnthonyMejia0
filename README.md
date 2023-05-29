@@ -7,7 +7,7 @@
 <h1>About Me!</h1>
 
 - 🎓: 2021 UC Riverside Graduate with B.S. in Computer Science
-- 💻: I recently created a personal website using ReactJS and SASS (Check it out [here.](https://anthonymejia.me/))
+- 💻: I recently created a personal website using ReactJS and SASS (Check it out [here.](https://anthonymejia.dev/))
 - 👯: I’m currently looking to get started collaborating on open source projects
 - ⚡  Hobbies: I play Basketball🏀, Video Games🎮, and do coding challenges!
 
